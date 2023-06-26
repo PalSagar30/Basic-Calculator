@@ -36,6 +36,9 @@ button{
     box-shadow: inset 6px 6px 10px  rgba(190,97,97,1),
     inset -6px -6px 10px  rgba(190,97,97,1);;
 }
+.dot{
+    font-size: 20px;
+}
 #input{
     max-width: 400px;
     text-align: center;
