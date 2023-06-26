@@ -7,5 +7,9 @@ Hey i create a simple calculator.
 # demo
 
 
-Uploading Basic Calculator - Google Chrome 2023-06-26 17-00-35.mp4…
+
+https://github.com/PalSagar30/Basic-Calculator/assets/135932651/bf96dccf-7ee6-4621-89e1-beb395cb9845
+
+
+
 
